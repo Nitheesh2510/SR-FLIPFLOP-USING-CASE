@@ -60,8 +60,14 @@ Name: Nitheesh Kumar B
 Red No:212224230189
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
+
+
 ![439085430-4a41d230-b942-449f-9915-033a96f19eed](https://github.com/user-attachments/assets/e60d9ff8-4f66-47e5-b12d-3483d930cacb)
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
+
+
 ![439085489-f97de598-638c-4cc5-8198-be7a5ffe9d31](https://github.com/user-attachments/assets/4d7ca917-7740-49d4-9eeb-65ee794d8b4a)
 
 
