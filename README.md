@@ -64,6 +64,8 @@ Red No:212224230189
 
 
 ![439085430-4a41d230-b942-449f-9915-033a96f19eed](https://github.com/user-attachments/assets/e60d9ff8-4f66-47e5-b12d-3483d930cacb)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 
